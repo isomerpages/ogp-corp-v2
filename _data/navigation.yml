@@ -1,0 +1,10 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: About Us
+    url: /contact-us/
+  - title: Careers
+    url: /example-page/
+  - title: Products
+    collection: example-folder
+  - title: Collaborate
+    url: /permalink
